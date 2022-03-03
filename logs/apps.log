@@ -1,0 +1,5 @@
+2022-03-02 16:33:55,556 DEBUG begin.Log4JDemo [main] This is my debug message
+2022-03-02 16:33:55,558 INFO begin.Log4JDemo [main] This is my info message
+2022-03-02 16:33:55,558 WARN begin.Log4JDemo [main] This is my warn message
+2022-03-02 16:33:55,558 ERROR begin.Log4JDemo [main] This is my error message
+2022-03-02 16:33:55,558 FATAL begin.Log4JDemo [main] This is my fatal message
